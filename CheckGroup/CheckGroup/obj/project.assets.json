@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net\\Visual_S\\CheckGroup\\CheckGroup\\CheckGroup.csproj",
+      "projectUniqueName": "C:\\Users\\Begzod\\Source\\Repos\\CheckGroup_\\CheckGroup\\CheckGroup\\CheckGroup.csproj",
       "projectName": "CheckGroup",
-      "projectPath": "D:\\.Net\\Visual_S\\CheckGroup\\CheckGroup\\CheckGroup.csproj",
+      "projectPath": "C:\\Users\\Begzod\\Source\\Repos\\CheckGroup_\\CheckGroup\\CheckGroup\\CheckGroup.csproj",
       "packagesPath": "C:\\Users\\Begzod\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net\\Visual_S\\CheckGroup\\CheckGroup\\obj\\",
+      "outputPath": "C:\\Users\\Begzod\\Source\\Repos\\CheckGroup_\\CheckGroup\\CheckGroup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Begzod\\AppData\\Roaming\\NuGet\\NuGet.Config",
