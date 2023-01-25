@@ -8,7 +8,5 @@
         public string Name { get; set; }
 
         public string Passwordhash { get; set; }
-
-        public Group Groups { get; set; }
     }
 }
