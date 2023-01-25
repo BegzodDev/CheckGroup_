@@ -1289,19 +1289,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {}
+    "C:\\Users\\Begzod\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\CheckGroup_\\CheckGroup\\CheckGroup\\CheckGroup.csproj",
+      "projectUniqueName": "C:\\Users\\Begzod\\Source\\Repos\\CheckGroup_2\\CheckGroup\\CheckGroup\\CheckGroup.csproj",
       "projectName": "CheckGroup",
-      "projectPath": "C:\\Users\\user\\Source\\Repos\\CheckGroup_\\CheckGroup\\CheckGroup\\CheckGroup.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Source\\Repos\\CheckGroup_\\CheckGroup\\CheckGroup\\obj\\",
+      "projectPath": "C:\\Users\\Begzod\\Source\\Repos\\CheckGroup_2\\CheckGroup\\CheckGroup\\CheckGroup.csproj",
+      "packagesPath": "C:\\Users\\Begzod\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Begzod\\Source\\Repos\\CheckGroup_2\\CheckGroup\\CheckGroup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Begzod\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1365,7 +1365,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
